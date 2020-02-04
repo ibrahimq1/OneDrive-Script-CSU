@@ -34,7 +34,6 @@ fi
 
 		###### Open OneDrive ######
 
-
 open /Applications/OneDrive.app
 
 read -p "Please login to continue OR press return to continue anyway..."
