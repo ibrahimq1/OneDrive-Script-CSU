@@ -1,4 +1,4 @@
-This is a simple OneDrive syncic bash script used to sync the
+This is is a simple OneDrive syncic bash script used to sync the
 
 /Desktop
 /Downloads
